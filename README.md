@@ -1,2 +1,2 @@
 # reproducible-research-p1
-This is my project
+Check the Rmd file for the results of the experiments.
